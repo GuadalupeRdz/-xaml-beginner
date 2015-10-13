@@ -31,5 +31,10 @@ namespace RestaurantManager.UniversalWindows.Pages
         {
             this.Frame.GoBack();
         }
+
+        private void btnAddToOrder_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
